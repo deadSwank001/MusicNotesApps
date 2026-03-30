@@ -1,0 +1,40 @@
+https://github.com/isaaclyman/blackswan-js
+
+https://dev.to/areknawo/9-libraries-to-kickstart-your-web-audio-stuff-460p#:~:text=Howler.,
+
+https://github.com/notthetup/awesome-webaudio
+
+https://keithclark.github.io/ZzFXM/
+
+https://github.com/jet2jet/js-synthesizer
+
+https://www.youtube.com/results?search_query=music+in+javascript
+
+https://www.youtube.com/shorts/AJ7atBkisOU
+
+https://github.com/notthetup/awesome-webaudio
+
+https://www.vexflow.com/
+
+https://blog.bitsrc.io/high-fidelity-web-audio-with-javascript-2e5fff0f071d
+
+https://dev.to/areknawo/9-libraries-to-kickstart-your-web-audio-stuff-460p
+
+https://dl.acm.org/doi/10.1145/3672554
+
+---not so sure:: (I can use it, not sure that I want to; "Too Girlie"  , ..... Can I say that?)
+https://www.canva.com/features/ai-music-generator/
+
+https://www.eweek.com/news/suno-latest-ai-music-generator/
+
+https://www.gaudiolab.com/gaudio-studio/blog/ai-music-tools-2025
+
+https://www.aiva.ai/
+
+BEST ONE ***
+https://strudel.cc/
+
+UNRELATED: HTML WRAPPER ***
+https://strudel.js.org/
+
+https://strudel.cc/functions/intro/
